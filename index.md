@@ -1,10 +1,10 @@
 # Fortnite/Epic Games Partnership!!
 
-DO NOT GO ON THIS [POOPY WEBSITE](https:www.fortnite.com) YOU SHOULD USE THIS WEBSITE NOT THAT ONE>
+DO NOT GO ON THIS [POOPY WEBSITE](199.255.40) YOU SHOULD USE THIS WEBSITE NOT THAT ONE>
 
 This website intends to teach the reader respect for their elders.
 
-### Intro
+### Intro (Mandatory reading)
 
 1. The Industrial Revolution and its consequences have
 been a disaster for the human race. They have greatly
@@ -446,12 +446,9 @@ superiors).
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
+### Summary
+-In modern society, due to lack of hardship and threat, humans have developed surrogate activities.
+-These surrogate activities are **STUPID** and **DUMB**
 
 1. Numbered
 2. List
