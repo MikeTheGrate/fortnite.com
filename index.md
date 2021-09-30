@@ -447,13 +447,15 @@ superiors).
 ```
 
 ### Summary
--In modern society, due to lack of hardship and threat, humans have developed surrogate activities.
--These surrogate activities are **STUPID** and **DUMB**
+- In modern society, due to lack of hardship and threat, humans have developed surrogate activities.
+- These surrogate activities are **STUPID** and **DUMB**
+- They replace the _epic_ and _based_ and _redpilled_ constant struggle with nature to survive. As an expert on life with over a decade of experience, I know for sure that I'd rather forego medicine, hunt for food, and drink water from questionable sources, than live in my comfy suburban neighborhood.
+- But actually though, as a result of technology replacing ourselves in the fight for survival, society is the most depressive it ever has been.
+- Depression and mental illness has become a natural response to society, rather than a fluke of evolution.
+- According to Kaczynski, the onset of increasing levels of technology has become unstoppable by reform, and only through complete revolution against tech and science could we escape the clutches.
 
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 
 ![fortnite brickaxe](https://user-images.githubusercontent.com/91563613/135511738-86de7490-d0ae-429e-979d-2c5040422a60.jpg)
 ![kacysnki manifesto portrait](https://user-images.githubusercontent.com/91563613/135511749-ec5fa345-873a-4c39-a52c-de458060adda.jpg)
