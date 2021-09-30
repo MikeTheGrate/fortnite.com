@@ -1,10 +1,11 @@
 # Fortnite/Epic Games Partnership!!
 
-DO NOT GO ON THIS [POOPY WEBSITE](199.255.40) YOU SHOULD USE THIS WEBSITE NOT THAT ONE>
+DO NOT GO ON THIS [POOPY WEBSITE](https://www.epicgames.com/fortnite/en-US/home) YOU SHOULD USE THIS WEBSITE NOT THAT ONE>
 
 This website intends to teach the reader respect for their elders.
 
 ### Intro (Mandatory reading)
+```markdown
 
 1. The Industrial Revolution and its consequences have
 been a disaster for the human race. They have greatly
@@ -443,27 +444,17 @@ purely physical sense of power (the good combat soldier,
 who gets his sense of power by developing fighting skills
 that he is quite content to use in blind obedience to his
 superiors).
-```markdown
-Syntax highlighted code block
+```
 
 ### Summary
 -In modern society, due to lack of hardship and threat, humans have developed surrogate activities.
 -These surrogate activities are **STUPID** and **DUMB**
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MikeTheGrate/fortnite.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![fortnite brickaxe](https://user-images.githubusercontent.com/91563613/135511738-86de7490-d0ae-429e-979d-2c5040422a60.jpg)
+![kacysnki manifesto portrait](https://user-images.githubusercontent.com/91563613/135511749-ec5fa345-873a-4c39-a52c-de458060adda.jpg)
+![kaczynski (hot)](https://user-images.githubusercontent.com/91563613/135511757-e0ac93bd-318b-4560-8c05-e35f434409e0.jpg)
