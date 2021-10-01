@@ -469,19 +469,19 @@ superiors).
 
 ### Cool stuff he said
 
-```markdown The concept of “mental health” in our society is defined largely by the extent to which an individual behaves in accord with the needs of the system and does so without showing signs of stress. ```
+``` The concept of “mental health” in our society is defined largely by the extent to which an individual behaves in accord with the needs of the system and does so without showing signs of stress. ```
 
-```markdown By teaching people that violence is wrong (except, of course, when the system itself uses violence via the police or the military), the system maintains its monopoly on physical force and thus keeps all power in its own hands.```
+``` By teaching people that violence is wrong (except, of course, when the system itself uses violence via the police or the military), the system maintains its monopoly on physical force and thus keeps all power in its own hands.```
 
-```markdown There is nothing wrong with violence in itself. In any particular case, whether violence is good or bad depends on how it is used and the purpose for which it is used.```
+``` There is nothing wrong with violence in itself. In any particular case, whether violence is good or bad depends on how it is used and the purpose for which it is used.```
 
 ![tucker carlson violence works](https://user-images.githubusercontent.com/91563613/135595738-e2c11a0f-3b74-4450-8f51-76b9edb9b5e6.jpg)
 
 (Violence works)
 
-```markdown We can do anything we like as long as it is UNIMPORTANT. ```
+``` We can do anything we like as long as it is UNIMPORTANT. ```
 
-This one is my favorite of all. There is no better way to explain the difference between freedom and permission.
+This one is my favorite of all. There is no better way to explain the difference between freedom and permissiveness.
 
 ![kaczynski (hot)](https://user-images.githubusercontent.com/91563613/135511757-e0ac93bd-318b-4560-8c05-e35f434409e0.jpg)
 
