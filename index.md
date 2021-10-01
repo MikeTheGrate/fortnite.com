@@ -469,11 +469,11 @@ superiors).
 
 ### Cool stuff he said
 
-```markdown The concept of “mental health” in our society is defined largely by the extent to which an individual behaves in accord with the needs of the system and does so without showing signs of stress. '''
+```markdown The concept of “mental health” in our society is defined largely by the extent to which an individual behaves in accord with the needs of the system and does so without showing signs of stress. ```
 
-```markdown By teaching people that violence is wrong (except, of course, when the system itself uses violence via the police or the military), the system maintains its monopoly on physical force and thus keeps all power in its own hands.
+```markdown By teaching people that violence is wrong (except, of course, when the system itself uses violence via the police or the military), the system maintains its monopoly on physical force and thus keeps all power in its own hands.```
 
-```markdown There is nothing wrong with violence in itself. In any particular case, whether violence is good or bad depends on how it is used and the purpose for which it is used.
+```markdown There is nothing wrong with violence in itself. In any particular case, whether violence is good or bad depends on how it is used and the purpose for which it is used.```
 
 ![tucker carlson violence works](https://user-images.githubusercontent.com/91563613/135595738-e2c11a0f-3b74-4450-8f51-76b9edb9b5e6.jpg)
 
