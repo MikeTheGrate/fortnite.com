@@ -2,9 +2,22 @@
 
 DO NOT GO ON THIS [POOPY WEBSITE](https://www.epicgames.com/fortnite/en-US/home) YOU SHOULD USE THIS WEBSITE NOT THAT ONE>
 
+![fortnite brickaxe](https://user-images.githubusercontent.com/91563613/135511738-86de7490-d0ae-429e-979d-2c5040422a60.jpg)
+The brickaxe is so cool! I have no idea what it is
+
 This website intends to teach the reader respect for their elders.
 
+### But actually though
+This website will cover what I remember from the 2/3 of the unabomber manifesto I ironically listened to in an audiobook-syle.
+
+### Background. 
+Theodore Kaczynski, AKA the unabomber, was a mathematics prodigy in his early years, but suddenly resigned to live a simpler life, free of almost all society, yet without basic amenities such as running water. Some analysts speculate that one of the reasons Kaczynski left academic society was because of psychological experiments performed on him, while others have pointed out his short phase of considering transition. However, the effect of these things has been exxagerated by federal agencies and psychiatrists to undermine his ideas and gain fame, respectively. 
+While he lived in his infamous cabin in Montana, literature and construction near his home pushed him into "activism" against technological society, sometimes described as terrorism. The rest is quite well known. 
+He eventually got a big newspaper, NY times if I remember correctly, to publish his manifesto, by agreeing to stop killing. Thus, Kaczynski's plan to spread his ideas worked, to a degree. The revolution against technology has still not come, and likely never will, considering the motivations rival nations such as the USA and China have to maintain technology as an advantage. 
+Scroll down to the bottom for more
+
 ### Intro (Mandatory reading)
+![kacysnki manifesto portrait](https://user-images.githubusercontent.com/91563613/135511749-ec5fa345-873a-4c39-a52c-de458060adda.jpg)
 ```markdown
 
 1. The Industrial Revolution and its consequences have
@@ -454,9 +467,18 @@ superiors).
 - Depression and mental illness has become a natural response to society, rather than a fluke of evolution.
 - According to Kaczynski, the onset of increasing levels of technology has become unstoppable by reform, and only through complete revolution against tech and science could we escape the clutches.
 
+### Cool stuff he said
 
-**Bold** and _Italic_ and `Code` text
+The concept of “mental health” in our society is defined largely by the extent to which an individual behaves in accord with the needs of the system and does so without showing signs of stress.
 
-![fortnite brickaxe](https://user-images.githubusercontent.com/91563613/135511738-86de7490-d0ae-429e-979d-2c5040422a60.jpg)
-![kacysnki manifesto portrait](https://user-images.githubusercontent.com/91563613/135511749-ec5fa345-873a-4c39-a52c-de458060adda.jpg)
+By teaching people that violence is wrong (except, of course, when the system itself uses violence via the police or the military), the system maintains its monopoly on physical force and thus keeps all power in its own hands.
+
+There is nothing wrong with violence in itself. In any particular case, whether violence is good or bad depends on how it is used and the purpose for which it is used.
+![tucker carlson violence works](https://user-images.githubusercontent.com/91563613/135595738-e2c11a0f-3b74-4450-8f51-76b9edb9b5e6.jpg)
+Violence works (not a ted quote)
+
+We can do anything we like as long as it is UNIMPORTANT.
+
 ![kaczynski (hot)](https://user-images.githubusercontent.com/91563613/135511757-e0ac93bd-318b-4560-8c05-e35f434409e0.jpg)
+Kaczynski was kind of **DYEL** though
+But he gets mad Hybristophiliac chicks 
